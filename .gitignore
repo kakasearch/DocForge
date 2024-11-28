@@ -1,0 +1,11 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# PyInstaller
+/dist/
+/build/
+/*.spec
+*.psd
+
